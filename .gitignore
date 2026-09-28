@@ -1,0 +1,13 @@
+Plaintext
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Credenciais e chaves da AWS (Segurança)
+*.pem
+.env
+aws-credentials.json

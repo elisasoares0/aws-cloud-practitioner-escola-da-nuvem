@@ -1,0 +1,11 @@
+aws-cloud-practitioner-escola-da-nuvem/
+│
+└── labs/
+    └── redes/
+        ├── 01-criando-vpc-customizada/
+        │   ├── README.md               # Explicação do lab e passos que executou
+        │   └── arquitetura.png         # (Opcional) Print da VPC montada
+        │
+        └── 02-configurando-security-groups/
+            ├── README.md               # Explicação das regras de Firewall (Inbound/Outbound)
+            └── regras.txt              # Exemplo de anotação de portas liberadas (ex: SSH 22, HTTP 80)
