@@ -35,7 +35,7 @@ Um cliente corporativo (Bob, Administrador da Nuvem) abriu um ticket de suporte 
     ![Detalhes de rede da instância](./imagens/print-ip-dinamico.png)
 
 **2. Alocação do Elastic IP (EIP):**
-    ![Criação do Elastic IP](./imagens/print-associar-eip.png)
+    ![Criação do Elastic IP](./imagens/print-alocar-eip.png)
 
 **3. Associação do EIP à instância do EC2:**
   ![Associação do EIP](./imagens/print-associar-eip.png)
