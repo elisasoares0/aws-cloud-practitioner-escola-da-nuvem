@@ -35,10 +35,10 @@ aws-cloud-practitioner-escola-da-nuvem/
 │   ├── 01-introducao-nuvem/
 │   ├── 02-linux-essencial/
 │   └── 03-redes-na-aws/
-│       ├── 01-criando-vpc-customizada/
-│       │   ├── README.md
-│       │   └── arquitetura.png
-│       └── 02-configurando-security-groups/
+│       ├── 01-enderecos-ip-estaticos-e-dinamicos/
+│       │   ├── imagens
+│       │   └── README.md
+│       └── 02-criando-vpc-customizada/
 │           ├── README.md
 │           └── regras-sg.png
 │
