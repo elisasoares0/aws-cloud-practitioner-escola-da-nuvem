@@ -31,16 +31,19 @@ Um cliente corporativo (Bob, Administrador da Nuvem) abriu um ticket de suporte 
 
 ## 📌 Evidências do Laboratório
 
-**1. Instância criada e detalhe da aba Redes (IP dinâmico):**
+✅ **1. Instância criada e detalhe da aba Redes (IP dinâmico):**
     ![Detalhes de rede da instância](./imagens/print-ip-dinamico.png)
 
-**2. Alocação do Elastic IP (EIP):**
+
+✅ **2. Alocação do Elastic IP (EIP):**
     ![Criação do Elastic IP](./imagens/print-alocar-eip.png)
 
-**3. Associação do EIP à instância do EC2:**
+
+✅ **3. Associação do EIP à instância do EC2:**
   ![Associação do EIP](./imagens/print-associar-eip.png)
 
-**4. Comprovação do IP estático após reiniciar a instância:**
+
+✅ **4. Comprovação do IP estático após reiniciar a instância:**
   ![Instância reiniciada com IP elástico fixo](./imagens/print-ip-estatico.png)
 
 
