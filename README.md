@@ -16,6 +16,7 @@ O objetivo deste repositório é documentar minha jornada de aprendizado em comp
 | **01. Introdução à Nuvem** | Conceitos fundamentais, benefícios, modelos (IaaS/PaaS/SaaS) e regiões/AZs | Concluído ✅ | [Ver Docs](./docs/01-introducao-nuvem/) |
 | **02. Linux Essencial** | Terminal, gerenciamento de arquivos, permissões e pacotes | Concluído ✅ | [Ver Docs](./docs/02-linux-essencial/) |
 | **03. Redes na AWS** | VPC, sub-redes públicas/privadas, Internet Gateway e Security Groups | **Em andamento 🔄** | [Ver Labs](./docs/03-redes-na-aws/) |
+| **04. Segurança e Governança** | IAM, AWS Systems Manager, Patch Manager, Fleet Manager e conformidade | **Em andamento 🔄** | [Ver Labs](./docs/04-seguranca-e-governanca/) |
 
 ---
 
@@ -34,12 +35,16 @@ aws-cloud-practitioner-escola-da-nuvem/
 ├── docs/
 │   ├── 01-introducao-nuvem/
 │   ├── 02-linux-essencial/
-│   └── 03-redes-na-aws/
-│       ├── 01-enderecos-ip-estaticos-e-dinamicos/
-│       │   ├── imagens
-│       │   └── README.md
-│       └── 02-criando-vpc-customizada/
+│   ├── 03-redes-na-aws/
+│   │   └── 01-enderecos-ip-estaticos-e-dinamicos/
+│   │       ├── README.md
+│   │       └── imagens/
+│   │   
+│   │
+│   └── 04-seguranca-e-governanca/
+│       └── 01-aws-systems-manager-patch-manager/
 │           ├── README.md
-│           └── regras-sg.png
+│           └── imagens/
+│         
 │
 └── .gitignore
