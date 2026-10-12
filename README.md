@@ -37,14 +37,16 @@ aws-cloud-practitioner-escola-da-nuvem/
 │   ├── 02-linux-essencial/
 │   ├── 03-redes-na-aws/
 │   │   └── 01-enderecos-ip-estaticos-e-dinamicos/
-│   │       ├── README.md
-│   │       └── imagens/
+│   │       ├── imagens/
+│   |       └── README.md
 │   │   
 │   │
-│   └── 04-seguranca-e-governanca/
-│       └── 01-aws-systems-manager-patch-manager/
-│           ├── README.md
-│           └── imagens/
-│         
+│   |── 04-seguranca-e-governanca/
+│   |    |── 01-aws-systems-manager-patch-manager/
+│   |        ├── imagens/
+│   |        └── README.md
+|   |    └── 02-aws-iam-usuarios-grupos-e-politicas
+│   |        ├── imagens/
+│   |        └── README.md
 │
 └── .gitignore
