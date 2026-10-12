@@ -45,7 +45,7 @@ aws-cloud-practitioner-escola-da-nuvem/
 │   |    |── 01-aws-systems-manager-patch-manager/
 │   |        ├── imagens/
 │   |        └── README.md
-|   |    └── 02-aws-iam-usuarios-grupos-e-politicas
+|   |    └── 03-aws-iam-usuarios-grupos-e-politicas
 │   |        ├── imagens/
 │   |        └── README.md
 │
