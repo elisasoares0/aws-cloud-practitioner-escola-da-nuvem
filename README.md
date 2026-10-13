@@ -36,8 +36,11 @@ aws-cloud-practitioner-escola-da-nuvem/
 │   ├── 01-introducao-nuvem/
 │   ├── 02-linux-essencial/
 │   ├── 03-redes-na-aws/
-│   │   └── 01-enderecos-ip-estaticos-e-dinamicos/
+│   │   |── 01-enderecos-ip-estaticos-e-dinamicos/
 │   │       ├── imagens/
+│   |       └── README.md
+|   |   └── 03-criando-sub-redes-em-vpc
+|   |       ├── imagens/
 │   |       └── README.md
 │   │   
 │   │

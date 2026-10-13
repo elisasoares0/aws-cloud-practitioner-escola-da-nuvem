@@ -71,8 +71,6 @@ O chamado foi encerrado com sucesso. Demonstrei ao cliente como utilizar interva
 
 ---
 
----
-
 ## 🧭 Navegação
 
 <div align="center">
