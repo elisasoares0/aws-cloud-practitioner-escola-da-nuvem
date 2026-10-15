@@ -132,6 +132,13 @@ Métrica Mapeada: `CPUUtilization` da instância `Stress Test`
 
 O dashboard fornece visão histórica e instantânea do ciclo de carga e alívio da instância, permitindo correlacionar métricas de diferentes fontes em uma visualização única.
 
+<!-- Print: Dashboard do CloudWatch -->
+<p align="center">
+  <img src="imagens/06-cloudwatch-dashboard.png" alt="Dashboard LabEC2Dashboard exibindo widget da métrica CPUUtilization" width="850">
+  <br>
+  <em>Figura 6: Painel operacional LabEC2Dashboard consolidando o histórico da métrica da instância EC2.</em>
+</p>
+
 ---
 
 ## 💡 Aprendizados e Boas Práticas
