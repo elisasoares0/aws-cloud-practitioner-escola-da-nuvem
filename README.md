@@ -36,20 +36,21 @@ aws-cloud-practitioner-escola-da-nuvem/
 │   ├── 01-introducao-nuvem/
 │   ├── 02-linux-essencial/
 │   ├── 03-redes-na-aws/
-│   │   |── 01-enderecos-ip-estaticos-e-dinamicos/
+│   │   ├── 01-enderecos-ip-estaticos-e-dinamicos/
 │   │       ├── imagens/
-│   |       └── README.md
-|   |   └── 03-criando-sub-redes-em-vpc
-|   |       ├── imagens/
-│   |       └── README.md
-│   │   
-│   │
-│   |── 04-seguranca-e-governanca/
-│   |    |── 01-aws-systems-manager-patch-manager/
-│   |        ├── imagens/
-│   |        └── README.md
-|   |    └── 03-aws-iam-usuarios-grupos-e-politicas
-│   |        ├── imagens/
-│   |        └── README.md
-│
+│   │       └── README.md
+│   │   └── 03-criando-sub-redes-em-vpc
+│   │       ├── imagens/
+│   │       └── README.md
+│   │── 04-seguranca-e-governanca/
+│   │   ├── 01-aws-systems-manager-patch-manager/
+│   │       ├── imagens/
+│   │       └── README.md
+│   │   ├── 03-aws-iam-usuarios-grupos-e-politicas
+│   │       ├── imagens/
+│   │       └── README.md
+│   │     ├── 04-monitoramento-e-alertas-cloudwatch-sns
+│   │       ├── imagens/
+│   │       └── README.md  
+│       
 └── .gitignore
