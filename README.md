@@ -49,7 +49,7 @@ aws-cloud-practitioner-escola-da-nuvem/
 │   │   ├── 03-aws-iam-usuarios-grupos-e-politicas
 │   │       ├── imagens/
 │   │       └── README.md
-│   │     ├── 04-monitoramento-e-alertas-cloudwatch-sns
+│   │   ├── 04-monitoramento-e-alertas-cloudwatch-sns
 │   │       ├── imagens/
 │   │       └── README.md  
 │       
